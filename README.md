@@ -1,5 +1,5 @@
 # File Manager
-![File Manager Icon](/File Manager.png)
+![File Manager Icon](/FileManager.png)
 
 File Manager will be the default Calculator app for AROS
 
