@@ -14,7 +14,7 @@ File Manager will be available pre-installed on AROS, but until then you can ins
 
 Firstly, get the code by opening a terminal and typing 
 ```
-git clone https://github.com/AR4789-OS/File-Manager.git -b build-latest
+git clone https://github.com/AR4789-OS/File-Manager.git -b build-1.0
 ```
 
 I have included an `install.sh` script
