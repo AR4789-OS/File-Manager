@@ -1,7 +1,7 @@
 # File Manager
 ![File Manager Icon](/FileManager.png)
 
-File Manager will be the default Calculator app for AROS
+File Manager will be the default Files app for AROS
 
 Like most of the other default applications it is written in C++
 
